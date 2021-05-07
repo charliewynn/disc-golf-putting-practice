@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/disc-golf-putting-practice/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/disc-golf-putting-practice/static/js/main.e76f06e5.chunk.js",
+    "main.js.map": "/disc-golf-putting-practice/static/js/main.e76f06e5.chunk.js.map",
+    "runtime-main.js": "/disc-golf-putting-practice/static/js/runtime-main.b4c2a890.js",
+    "runtime-main.js.map": "/disc-golf-putting-practice/static/js/runtime-main.b4c2a890.js.map",
+    "static/js/2.b972ebd1.chunk.js": "/disc-golf-putting-practice/static/js/2.b972ebd1.chunk.js",
+    "static/js/2.b972ebd1.chunk.js.map": "/disc-golf-putting-practice/static/js/2.b972ebd1.chunk.js.map",
+    "static/js/3.4ad596c9.chunk.js": "/disc-golf-putting-practice/static/js/3.4ad596c9.chunk.js",
+    "static/js/3.4ad596c9.chunk.js.map": "/disc-golf-putting-practice/static/js/3.4ad596c9.chunk.js.map",
+    "index.html": "/disc-golf-putting-practice/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/disc-golf-putting-practice/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b972ebd1.chunk.js.LICENSE.txt": "/disc-golf-putting-practice/static/js/2.b972ebd1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/disc-golf-putting-practice/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c2a890.js",
+    "static/js/2.b972ebd1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e76f06e5.chunk.js"
+  ]
+}
